@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Aspiring+Data+Analyst">
   </a>
 </h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrudhula736&label=Profile%20views&color=0e75b6&style=flat" alt="mrudhula736" /> </p>
 
@@ -15,11 +15,11 @@
 
 - 💬 Ask me about: **📊 Data Analysis, EDA & Insights, 🐍 Python (Numpy, Pandas, Matplotlib, Seaborn), 🗄️ SQL (Joins, Queries, Data Extraction) 📈 Power BI Dashboard Creation, 📉 Data Cleaning & Preprocessing.**
 
-- 📫 How to reach me **mrudhulamanju963@gmail.com**
+- 📫 How to reach me --> **mrudhulamanju963@gmail.com**
 
-- 📄 Know about my experiences 📊 Worked on real-world projects involving data cleaning, visualization, and analysis & 🚀 Gained hands-on experience with Python, SQL, and Power BI tools
+- 📄 Know about my experiences: 📊 Worked on real-world projects involving data cleaning, visualization, and analysis 
 
-- ⚡ Fun fact **I believe every dataset has a story — I love discovering it**
+- ⚡ Fun fact: **I believe every dataset has a story — I love discovering it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
